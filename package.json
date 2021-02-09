@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/diego-bernardesb/js-tdd/issues"
   },
-  "homepage": "https://github.com/diego-bernardesb/js-tdd#readme"
+  "homepage": "https://github.com/diego-bernardesb/js-tdd#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "eslint": "^7.19.0",
+    "eslint-plugin-vue": "^7.5.0"
+  }
 }
